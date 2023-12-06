@@ -7,7 +7,7 @@
   Add your open source license, GitHub uses MIT license.
 -->
 
-# Review pull requests CHMF
+# Review pull requests /CHMF/
 
 _Collaborate and work together on GitHub._
 
